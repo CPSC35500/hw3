@@ -3,3 +3,4 @@ broccoli
 turnip
 potato
 carrots
+bean sprout

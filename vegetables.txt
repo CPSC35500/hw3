@@ -1,9 +1,3 @@
 spinach
 broccoli
 turnip
-potato
-carrots
-<<<<<<< HEAD
-bean sprout
-=======
->>>>>>> 0737e0547d78b80cf18623aa09dcbfbfb1b72c12

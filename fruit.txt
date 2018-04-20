@@ -5,5 +5,5 @@ banana
 peach
 lemon
 plum
-plum
 kiwi
+date
